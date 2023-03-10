@@ -7,6 +7,8 @@ This project was made by Horiseon Social Solution Services, inc. and was used to
 The goal was to keep the functionality of the code the same while improving labeling and organization. 
 Code and project provided as part of Module 1.
 
+![Web Page Screenshot](./assets/images/module_1_capture.PNG?raw=true)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
